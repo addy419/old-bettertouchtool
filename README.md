@@ -1,16 +1,10 @@
-# Zm23374 Old-bettertouchtool
+# Better Touch Tool v4.716
 
 ## How do I install these formulae?
 
-`brew install zm23374/old-bettertouchtool/<formula>`
-
-Or `brew tap zm23374/old-bettertouchtool` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "zm23374/old-bettertouchtool"
-brew "<formula>"
+```sh
+brew tap addy419/old-bettertouchtool https://github.com/addy419/old-bettertouchtool.git
+brew install --cask addy419/old-bettertouchtool/bettertouchtool
 ```
 
 ## Documentation
